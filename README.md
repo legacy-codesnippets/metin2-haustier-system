@@ -23,4 +23,4 @@ Haustiere können per Item (z. B. 53001–53009) beschworen werden. Level wird
 - Pet-Ruf-Items und NPCs anpassen, falls nötig.
 
 ## 📌 Quelle
-🔗 [elitepvpers.com – Haustierquest (von Galiskan)](https://www.elitepvpers.com/forum/metin2-pserver-guides-strategies/2624285-tausend-u-s-ds-beitrag-release-haustierquest.html)
+🔗 [elitepvpers.com – Haustierquest](https://www.elitepvpers.com/forum/metin2-pserver-guides-strategies/2624285-tausend-u-s-ds-beitrag-release-haustierquest.html)
